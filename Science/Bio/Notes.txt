@@ -2,4 +2,6 @@ BRAIN-
    Central organ of nervous system
    Including spinal cord with brain is central nervous system
    Parts - Cerebrum  Brainstem and Cerebellum
+   Brain is connected to spinal cord
+   Human like brain - Chimpanzee Macaque(Bandar) Mouse
    
