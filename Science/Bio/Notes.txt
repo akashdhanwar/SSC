@@ -9,7 +9,7 @@ BRAIN-
    
    Parts-
    1) Forebrain (Cerebrum, Thalamus, LimbicSystem(Hypothalamus))
-   2) Midbrain 
+   2) Midbrain (Smallest part of brain)
    3) Hindbrain (Cerebellum, Pons, Medulla)
    
    Cerebrum is the largest part in brain
