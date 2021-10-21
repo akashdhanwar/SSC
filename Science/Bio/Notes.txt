@@ -10,7 +10,7 @@ BRAIN-
    Parts-
    1) Forebrain (Cerebrum, Thalamus, LimbicSystem(Hypothalamus))
    2) Midbrain 
-   3) Hindbrain 
+   3) Hindbrain (Cerebellum, Pons, Medulla)
    
    Cerebrum is the largest part in brain
    Functions - Interpret touch, Vision and hearing, Speech, Reasoning(Intelligence)(important), Emotions, Learning and movement control
@@ -21,4 +21,11 @@ BRAIN-
    Limbic System is between Cerebrum and thalamus
    Functions - Hunger, Thirst, Fear, Anger, Sexual responses
 
-   Hypothalamus(important) 
+   Hypothalamus(important) release hormones and regulating body temperature
+   Ex- khushi se aansu wala hormone
+
+   Midbrain functions - control reflex(automatic) moments and hearing reflex
+   Ex- byk speed slow legs down, awaz aai mundi ghoomi
+
+   
+   
