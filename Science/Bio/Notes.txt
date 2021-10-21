@@ -4,11 +4,11 @@ BRAIN-
    Including spinal cord with brain is central nervous system
    Parts - Cerebrum  Brainstem and Cerebellum
    Brain is connected to spinal cord
-   Human like brain - Chimpanzee Macaque(Bandar) Mouse
+   Human like brain - Chimpanzee, Macaque(Bandar), Mouse
    Brain contains 65% fat
    
    Parts-
-   1) Forebrain (Cerebrum Thalamus LimbicSystem(Hypothalamus))
+   1) Forebrain (Cerebrum, Thalamus, LimbicSystem(Hypothalamus))
    2) Midbrain 
    3) Hindbrain 
    
