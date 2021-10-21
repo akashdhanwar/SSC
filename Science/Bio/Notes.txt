@@ -13,6 +13,6 @@ BRAIN-
    3) Hindbrain 
    
    Cerebrum is the largest part in brain
-   Functions - Interpret touch, Vision and hearing, Speech, Reasoning, Emotions, Learning and movement control
+   Functions - Interpret touch, Vision and hearing, Speech, Reasoning(Intelligence)(important), Emotions, Learning and movement control
    
    
