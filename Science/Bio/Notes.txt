@@ -15,4 +15,7 @@ BRAIN-
    Cerebrum is the largest part in brain
    Functions - Interpret touch, Vision and hearing, Speech, Reasoning(Intelligence)(important), Emotions, Learning and movement control
    
+   Thalamus carries sensory information from the body to Cerebrum and limbic system
+   It alerts brain Ex- garam tawa touch
+   
    
