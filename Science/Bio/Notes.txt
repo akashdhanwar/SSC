@@ -68,6 +68,7 @@ DIGESTIVE SYSTEM-
    *Appendix - for digesting chlorophyll - Vestigial Organ . Cow have biggest organ Appendix
 
 
+
 HEART AND RESPIRATORY SYSTEM-
    Impure Blood comes from Body through Superior and Inferior Vanacava to Right Atrium
    Then 2/3rd of blood goes to Right Ventrical through TriCuspid valve.
@@ -86,6 +87,7 @@ HEART AND RESPIRATORY SYSTEM-
    *Larnyx - Gale ki gaanth - Voice Box - Adam's Apple
    Trachea - holds food and wind pipe in a single pipe
    *Left lung - 2 lob, Right lung - 3 lob
+
 
 
 BLOOD-
@@ -112,6 +114,20 @@ BLOOD-
                         Lymphocyte(25-33%) - Produce antibody
    Platelets - Tiny Blood cells to clot blood with Fibrin and Thrombin. Ex - Burada and Fevicol used to fix broken bat
 
+   BLOOD GROUP(Imp)-
+   Antigen and Antibodies
+   Antigen moves Antibody to clotting place
+   A, B, AB and O - Discovered by Karl Landsteiner in 1940
+   Blood group is identified from sugar layer present on RBC and also by protein layer on RBC. Protein layer holds sugar/glucose
+   Negative group comes from Rh factor. If Protein layer < 50%.
+   Rehus Macaca - bandar experiment. No layer of sugar present on RBC. Hence said negative Rh.
+   AB- (AB Negative) is the rarest blood group. Problems in bearing baby due to no sugar layer and weakness
+
+   A  - Antigen A,   Antibody B     Recieve from A,O.                         Donate to A,AB
+   B  - Antigen B,   Antibody A     Recieve from B,O                          Donate to B,AB
+   AB - Antigen AB,  Antibody O     Recieve from O, AB Universal Acceptor     Donate to AB
+   O  - Antigen O,   Antibdy AB     Recieve from O                            Universal Donor
+
    *5-6L of blood in a human body, 5040ml
    *Blood is created in bone marrow in adults. In 2-3 years baby, it is created in Liver.
    *Plasma has protein - Fibrin(Blood Clotting), Thrombin(Blood clotting) and Heparin(Anti clotting inside body)
@@ -121,6 +137,50 @@ BLOOD-
                                   Leukaemia - High WBC (Blood Cancer) Ex- Rishi Kapoor
    Blood cells + Plasma = Blood
    Blood - Fibrin = Serum 
+
+
+
+PLANT STRUCTURE-
+   Divided into Shoot and Root System
+   Food from top to bottom, Water from bottom to top
+   Plant tissues(combination of cells) types -  Meristematic Tissues -  changes with time, temporary. 
+                                                                        Cells divide continuously. Cells undifferentiated from each other 
+                                                                        Cells are small
+                                                                        Intercellular space absent
+                                                                        Vacuolous absent(separate from one tissue with another)
+                                                                        Cell walls thin
+                                                                        Inorganic inclusions are absent. they die in contact of chemicals
+                                                Permanent Tissues -     Do not divide, cells differentiated from each other
+                                                                        Cell wall thin or thick
+  
+   Meristematic Tissues(small trees) -    Apical Meristem - topmost part where plant grows,   baby
+                                          Lateral Meristem - middle part which is young,      young
+                                          Intercalary Meristem - old and rigid, bottom,       old
+   Permanent Tissues(Big trees)  -        Simple - Parenchyma(Top part)
+                                                   Collenchyma(middle part)
+                                                   Sclerenchyma(bottom part) - Fibres and Selereids
+                                          Complex - Phloem(Food/glucose made on leaf from top to bottom) and Xylem(Water from bottom to top)
+
+   Functioning-
+   Root, Stem, Flower, Leaves, Seeds
+   Tiller - tehni for support like in lotus
+   Blade - leaf ki banavat to surive
+   Stolen - When a tree grows from root of another tree
+
+   Types of roots - Tap Root(Edible roots like carrot grown inside ground) and Fibrous Root(Carrot ke reshe on carrot)
+   Onion and Potato are stem beacause it has root inside and has leaves on it
+   
+
+   Leaves - Thin with large surface area, contains chlorophyll in chloroplasts
+            Leaves are Plant's food Factory, main site of photosynthesis by chlorophyll
+   Stems -  Contains Xylum and Phloem, transports food, water and minerals
+            Provides support to leaf and fruits and roots
+   Roots -  Grabs soil, absorbtion of water and minerals.
+            Protects and lubricates growing root
+
+
+
+
 
 
 
