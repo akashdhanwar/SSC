@@ -33,27 +33,18 @@ BRAIN- Question- positionwise and functionwise
    
 
 DIGESTIVE SYSTEM-
-   Organs-
-   Mouth has buccal cavity, salivary gland 
-   Salivary gland produces saliva
-   Food pipe or Esophagus
-   Stomach also known as JShepherd
-   Liver - Biggest organ in digestive system
-   Gall bladder removes chiknai 
-   Pancreas on back side of liver - Release hormones
-   Small and Large intestine
-   Rectum and Anus
-   Appendix - for digesting chlorophyll - Vestigial Organ . Cow have biggest organ Appendix
-   
+   Five stages of digestive system-
+   1. Ingestion - Intake of food
+   2. Digestion
+   3. Absorption - In Small Intestine(villies), absorbs nutritions. 
+   4. Essimilation - In Large Intestine. Converts nutritions to energy.
+   5. Excretion/Egestion
+
    Process- 
-   Mouth -> Salivary gland -> Stomach(3-4 hrs) -> Liver -> Small intestine -> Large intestine -> rectum -> anus
+   Mouth(Buccal Cavity) -> Salivary gland -> Stomach(3-4 hrs) -> Liver -> Small intestine -> Large intestine -> rectum -> anus
    Total length 9 metre of process (digestive gut). 1.5+ 6+ 1.5
    Parasteltic movement in Esophagus 
-   Spinter holds food at different places
-   First spinter between Stomach and liver for 3-4 hours until food digest in stomach
-   Second spinter between liver and small intestine, in bile juice 
-   Third spinter between and small and large intestine
-   Last spinter in anus
+   Spinter holds food at different places. First spinter between Stomach and liver for 3-4 hours until food digest in stomach. Second spinter between liver and small intestine, in bile juice. Third spinter between and small and large intestine. Last spinter in anus
    Water digest in 1 min
 
    Digestion Process-
@@ -66,20 +57,15 @@ DIGESTIVE SYSTEM-
    *Protein digests too late
    *Final digestion completes in Bile Duct
 
-   Five stages of digestive system-
-   1. Ingestion - Intake of food
-   2. Digestion
-   3. Absorption - In Small Intestine(villies), absorbs nutritions. 
-   4. Essimilation - In Large Intestine. Converts nutritions to energy.
-   5. Excretion/Egestion
-
-   Mouth Process-
-   Mechanical Process - 8+8+8+8 teeth. 2123 in adults - Inscissor Canine Premolar Molar. 5+5+5+5 teeth in children 2102
-   Chemical Process - Saliva 3 enzymes already dscussed
-
+   *Teeth - 8+8+8+8 in adults 2123 - Inscissor Canine Premolar Molar. 5+5+5+5 teeth in children 2102
    *Wisdom Tooth - Last Molar (Akkal Daad) - Connected to brain
-
-   
+   *Pancreas(is on back side of liver) release 2 hormones - Insulin(converts sugar to glucose) and Glucagon(Stores as glucose)
+   *Less insulin hence Diabetes
+   *Food Pipe - Esophagus
+   *Stomach - JShepherd
+   *Liver - Biggest organ in digestive system
+   *Gall bladder removes chiknai 
+   *Appendix - for digesting chlorophyll - Vestigial Organ . Cow have biggest organ Appendix
 
 
 
