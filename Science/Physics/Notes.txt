@@ -1,0 +1,36 @@
+UNITS -
+    Anything that can be measured.
+    Scaler(magnitude and no direction) Ex- Mass, Speed, Volume
+    Vector(magnitude and direction) Ex- Displacement, Velocity, Acceleration
+
+    Total 7 FUNDAMENTAL Units-
+    Length                  m
+    Mass                    kg
+    Time                    sec
+    Electric Current        A
+    Temperature             K
+    Luminuous Intensity     candela(cd)
+    Amount of Substance     mole
+
+    DERIVED Units-
+    Force = Mass X Acceleration  kg m/s^2(Newton).                          1N = 10^5 dyne
+    Speed = m/sec, Acceleration = m/sec^2
+    Work Done = Force X Displacement (NewtonMeter)(kg m^2/sec^2)(Joule).    1J = 10^7 erg
+    1 Light Year            -   9.46 X 10^15 metre
+    1 Astronomical Unit     -   1.5 X 10^11 m
+    1 Nautical Mile         -   1852 metre
+    1 Parsec                -   3.36 Light Year
+    1 Atomic Mass unit/ Dalton  -   1.66 X 10^-27 kg
+    1 Slug                  -   14.59 kg
+    1 Chandrasekharan limit -   1.4 times mass of sun - 2.8 X 10^30 kg
+    1 Solar Day             -   86400 sec
+    1 Year                  -   365 1/2 solar days
+    1 Lunar month           -   27.3 solar days
+    Tropical Year           -   It is the year in which total solar eclipse occurs
+
+    Dimensional Formulas as MLT 
+    *Decibel(sound/noise), Parsec(distance), Siemens(conductance), Siemens per meter(Conductivity)
+
+    MKS - metre kilo sec, CGS - cm gm sec, FPS - foot pound sec, SI  - almost same as MKS
+
+
