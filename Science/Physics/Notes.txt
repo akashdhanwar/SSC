@@ -43,13 +43,21 @@ UNITS -
     MOTION - Speed, Velocity, Distance, Displacement, Acceleration, Relative Velocity
     Equation of Motion in 1-D - v=u+at, s=ut+1/2 at^2, v^2-u^2=2as
     Uniform Circular motion - Speed constant but velocity changes since Angular acceleratrion is there due to direction but not in plane, hence no effect on speed. Tangential Acceleration is zero
-    Projectile Motion - 
+    Projectile Motion - Range = u^2⋅sin2θ/g
+                        Height = u^2⋅(sinθ)^2/2g
+                        Time = 2u⋅sinθ/g
+                        45 degrees max
     Newton's Laws - 1st - Law of Inertia or Law of Galileo
                     2nd - Law of Acceleration or Law of Change of Momentum - Acceleration depends on mass of object. Mass is inverse to Acceleration. F = M X A.
                     3rd - Conservation of Momentum, Action Reaction Law
+    Momentum - Mass X Velocity
 
     *Free fall body - Uniform Acceleration
     *Kepler's laws - Govern the motion of planets
-    *If a person throw ball from train, what will be its motion - 
+    *If a person throw ball from train, what will be its motion - Parabolic motion - moves on both x and y axis
     *Motion of wheel of bull cart is which motion - Rotatory and Transilatory Motion
-    
+    *Cricket ball and Tennis ball will fall in same time under gravity since it does not depend on mass, but we will need more force to stop high mass body
+
+
+
+    Physics - 4 - 40:00
