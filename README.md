@@ -1,3 +1,1 @@
-"# SSC" 
-"# SSC" 
-"# SSC" 
+Motivation is nothin, Discipline is everything

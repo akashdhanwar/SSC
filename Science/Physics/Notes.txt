@@ -13,7 +13,7 @@ UNITS -
     Amount of Substance     mole
 
     DERIVED Units-
-    Force = Mass X Acceleration  kg m/s^2(Newton).                          1N = 10^5 dyne
+    *Force = Mass X Acceleration  kg m/s^2(Newton).                          1N = 10^5 dyne
     Speed = m/sec, Acceleration = m/sec^2
     Work Done = Force X Displacement (NewtonMeter)(kg m^2/sec^2)(Joule).    1J = 10^7 erg
     1 Light Year            -   9.46 X 10^15 metre
@@ -28,9 +28,28 @@ UNITS -
     1 Lunar month           -   27.3 solar days
     Tropical Year           -   It is the year in which total solar eclipse occurs
 
-    Dimensional Formulas as MLT 
-    *Decibel(sound/noise), Parsec(distance), Siemens(conductance), Siemens per meter(Conductivity)
+    Dimensional Formulas as MLT - Pressure=F/A, Power=W/T, Force(MLT-2), 
+    *Decibel(sound/noise), *Parsec(distance), *Pascal(Pressure), *Ohm(Resistance), *Hertz(Frequency), *Watt(Power)
+    Farad(Capacitance), Siemens/Mho(conductance), Siemens per meter(Conductivity), Henry(Electrical Inductance), Weber(Magnetic Flux), Tesla(Magnetic Flux per unit square)
+    Joule(Work Done/ Heat Energy), Calorie(Energy). 1 cal = 4.2 Joule
 
     MKS - metre kilo sec, CGS - cm gm sec, FPS - foot pound sec, SI  - almost same as MKS
 
 
+    SUPPLEMENTARY Units-
+    Radian and Steradian(solid angle Ex- cone)
+
+
+    MOTION - Speed, Velocity, Distance, Displacement, Acceleration, Relative Velocity
+    Equation of Motion in 1-D - v=u+at, s=ut+1/2 at^2, v^2-u^2=2as
+    Uniform Circular motion - Speed constant but velocity changes since Angular acceleratrion is there due to direction but not in plane, hence no effect on speed. Tangential Acceleration is zero
+    Projectile Motion - 
+    Newton's Laws - 1st - Law of Inertia or Law of Galileo
+                    2nd - Law of Acceleration or Law of Change of Momentum - Acceleration depends on mass of object. Mass is inverse to Acceleration. F = M X A.
+                    3rd - Conservation of Momentum, Action Reaction Law
+
+    *Free fall body - Uniform Acceleration
+    *Kepler's laws - Govern the motion of planets
+    *If a person throw ball from train, what will be its motion - 
+    *Motion of wheel of bull cart is which motion - Rotatory and Transilatory Motion
+    
