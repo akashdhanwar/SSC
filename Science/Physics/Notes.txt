@@ -1,7 +1,7 @@
 UNITS -
     Anything that can be measured.
-    Scaler(magnitude and no direction) Ex- Mass, Speed, Volume
-    Vector(magnitude and direction) Ex- Displacement, Velocity, Acceleration
+    Scaler(magnitude and no direction) Ex- Mass, Speed, Volume. (Dot Product)
+    Vector(magnitude and direction) Ex- Displacement, Velocity, Acceleration. (Cross Product, sin)
 
     Total 7 FUNDAMENTAL Units-
     Length                  m
@@ -31,7 +31,7 @@ UNITS -
     Dimensional Formulas as MLT - Pressure=F/A, Power=W/T, Force(MLT-2), 
     *Decibel(sound/noise), *Parsec(distance), *Pascal(Pressure), *Ohm(Resistance), *Hertz(Frequency), *Watt(Power)
     Farad(Capacitance), Siemens/Mho(conductance), Siemens per meter(Conductivity), Henry(Electrical Inductance), Weber(Magnetic Flux), Tesla(Magnetic Flux per unit square)
-    Joule(Work Done/ Heat Energy), Calorie(Energy). 1 cal = 4.2 Joule
+    Joule(Work Done/ Heat Energy), Calorie(Energy). 1 cal = 4.2 Joule. Work Done, Energy same unit
 
     MKS - metre kilo sec, CGS - cm gm sec, FPS - foot pound sec, SI  - almost same as MKS
 
@@ -40,7 +40,7 @@ UNITS -
     Radian and Steradian(solid angle Ex- cone)
 
 
-    MOTION - Speed, Velocity, Distance, Displacement, Acceleration, Relative Velocity
+MOTION - Speed, Velocity, Distance, Displacement, Acceleration, Relative Velocity
     Equation of Motion in 1-D - v=u+at, s=ut+1/2 at^2, v^2-u^2=2as
     Uniform Circular motion - Speed constant but velocity changes since Angular acceleratrion is there due to direction but not in plane, hence no effect on speed. Tangential Acceleration is zero
     Projectile Motion - Range = u^2⋅sin2θ/g
@@ -64,6 +64,40 @@ UNITS -
     *Cricket ball and Tennis ball will fall in same time under gravity since it does not depend on mass, but we will need more force to stop high mass body
     *If mass= 60N. Find weight on moon. 60*10/6 = 100N
     *Rocket works on law of conservation of Linear Momentum
+    *Energy remains constant when ball thrown upward
+
+WORK, POWER AND ENERGY-
+    Work = Force X Displacement X cosθ
+    Power = Work done per unit time. P=W/T. P=Force*Velocity
+    Types of Energy -   Kinetic(mv^2/2)  -   Mechanical, Thermal, Sound, Electrical, Radiant
+                        Potential(mgh)   -   related to arrangements   -   Chemical, Nuclear, Gravitational, Elastic
+    Law of conservation of Energy
+    How to measure house power - 1W = 1J/sec. 
+                                 1KW = 1000W. 
+                                 1KWhr = 3.6 X 10^6 = 1 unit
+
+    Mic - Sound to Electric
+    Candle - Chemical to heat and Light
+    Speaker - Electrical to sound
+    Battery - Chemical to Electrical
+    1 horsepower - 746 Watt
+
+GRAVITATION -
+    1686 by Newton, each particle of matter attracts each other
+    Newton metre square per kg square
+    G.m1.m2/r^2
+    Kepler's 2nd law - Area law 
+    Escape velocity is the min velocity to leave earths pull. 11.2 km/s
+
+    Earths radius - 6400kms
+    Geostationary satellite speed - 8km/sec
+
+    Weight of body in lift - Lift going up - Weight more. True weight + Mass*Acceleration
+                             Lift going down - Weight less
+                             Lift breaks - Weight zero. mg - mg
+    Torque(Moment) - Force X Displacement(perpendicular distance from axis of rotation) X sinθ.  F cross D    
 
 
-    Physics - 5 
+
+
+
