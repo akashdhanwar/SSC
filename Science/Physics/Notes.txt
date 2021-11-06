@@ -99,6 +99,25 @@ GRAVITATION -
                      Couple when two torques
 
 
+STRESS AND STRAIN -
+    Stress - The internal restoring force acting per unit area of cross section. Newton/meter or Newton/meter^2
+    Strain - The change occured is called strain. Unitless
+    Elasticity - Steel is more elastic than rubber. Ability to regain its shape
+    Density - Ratio of Mass and Volume. kg/m^3. Density of water max at 40 degree. *Less Denser will float above
+    Pressure - Force per unit area
+    Pascal's Law - Liquids, pressure is transmitted undiminished in confined liquid. Ex - Hydraulic brakes
+    Archemedes principle -  Upthrust is equal to the weight of the fluid displaced. Used in ships (Buoyant force). 
+                            Ocean water is more denser, more ship volume will be replaced hence ship dont sink and stays low in water
+    Surface Tension - Paper clip float on water, planets circular low Surface low suface tension
+    Adhesion and Cohesion - Adhesion is attraction b/w two unlike molecules (Fevicol), Cohesion b/w same molecles
+    Viscosity - Ability to flow. High viscosity less flow
+    Streamlined and Turbulent Flow - Velocity at every point in fluid same is Streamlined 
+    Bernauli's theorem - 
 
-
-
+    Needle of iron swims when it is placed gently on water - Surface tension
+    A boat will not submerge in water when it displaces water equal to its own - Volume
+    Ice with lead in it floats on water. What will happen to level of water - Falls
+    Oil floats on water why - because surface tension of oil is less than water
+    Fountain pens principle - Capillarey Action
+    Hairs of brush cling together when removed from water due to - Surface Tension
+    Dissipative force - Frictional force
