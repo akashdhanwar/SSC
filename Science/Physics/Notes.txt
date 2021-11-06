@@ -128,7 +128,7 @@ STRESS AND STRAIN -
 
 
 QUESTIONS-
-
+    Mercury Barometer - Evangelista
 
 
 
@@ -137,3 +137,14 @@ QUESTIONS-
 
 
 TOPICS-
+    Waves                           X
+    Stress Strain                   
+    Surface Tension
+    Mirror and Lens                 X
+    Centripetal Centrifugal
+    Pascal's law
+    Cappilarity
+    Scaler quantity
+    Conductance - Siemens
+    
+
