@@ -47,17 +47,23 @@ UNITS -
                         Height = u^2⋅(sinθ)^2/2g
                         Time = 2u⋅sinθ/g
                         45 degrees max
-    Newton's Laws - 1st - Law of Inertia or Law of Galileo
+    Newton's Laws - 1st - Law of Inertia or *Law of Galileo
                     2nd - Law of Acceleration or Law of Change of Momentum - Acceleration depends on mass of object. Mass is inverse to Acceleration. F = M X A.
-                    3rd - Conservation of Momentum, Action Reaction Law
+                    3rd - *Conservation of Momentum, Action Reaction Law
     Momentum - Mass X Velocity
+    Impulse is a force = Change in momentum, time is very less
+    Friction -  Opposes slipping tendency, Opposite in case of box(Pushing) and forward in our slippers(Rolling)
+                Static Friction > Kinetic/Sliding Friction
+                *Angle of repose - Max angle, it is equal to angle of friction
+    Centripetal and Centrifugal force - Centrifugal is a pseudo/virtual force
 
     *Free fall body - Uniform Acceleration
     *Kepler's laws - Govern the motion of planets
     *If a person throw ball from train, what will be its motion - Parabolic motion - moves on both x and y axis
     *Motion of wheel of bull cart is which motion - Rotatory and Transilatory Motion
     *Cricket ball and Tennis ball will fall in same time under gravity since it does not depend on mass, but we will need more force to stop high mass body
+    *If mass= 60N. Find weight on moon. 60*10/6 = 100N
+    *Rocket works on law of conservation of Linear Momentum
 
 
-
-    Physics - 4 - 40:00
+    Physics - 5 
