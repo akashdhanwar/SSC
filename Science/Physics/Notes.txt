@@ -96,6 +96,7 @@ GRAVITATION -
                              Lift going down - Weight less
                              Lift breaks - Weight zero. mg - mg
     Torque(Moment) - Force X Displacement(perpendicular distance from axis of rotation) X sinθ.  F cross D    
+                     Couple when two torques
 
 
 
