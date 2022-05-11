@@ -24,6 +24,7 @@ Earth Day                       -       22 April 1970, Theme - Invest in our Pla
 Army Day                        -       15 Jan
 Navy Day                        -       4 Dec 
 Air Force Day                   -       8 Oct
+Defence day                     -       4 March
 
 World No Tobacco Day            -       31 May 
 
@@ -40,7 +41,10 @@ World Hand Hygene Day           -       5 May
 World RedCross Day              -       8 May 1828, Theme - Be Human Kind, Henry Dunand born and founded red cross, got first nobel peace prize in 1901
 World Thallasemia Day           -       8 May 1994, Theme - Aware, share and care
 
+
+National Technology Day         -       11 May 1999, Theme - Science and Technology for sustainable future
 National Maritime Day           -       5 April
 BR Ambedkar Jayanti             -       14 April
 
 World Press Freedom Day         -       3 May 1993 Journalism under digital siege Theme
+National Startup Day            -       16 Jan
