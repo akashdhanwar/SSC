@@ -21,7 +21,7 @@ World Water Day                 -       22 March, Unite for safety, clean your h
 Earth Day                       -       22 April 1970, Theme - Invest in our Planet. 22 April 2016 Paris Agreement, COP 21
 World Soil Day                  -       5 Dec
 Ozone Preservation Day          -       16 September
-World Food Day                  -       
+World Food Day                  -       16 October
 
 Army Day                        -       15 Jan
 Navy Day                        -       4 Dec 
@@ -66,3 +66,7 @@ and Information Society Day     -       17 May
 
 International Museum Day        -       18 May 1977, The power of the Museum
 World Heritage Day              -       18 April
+
+
+World Bee Day                   -       20 May
+World Chess day                 -       20 July
