@@ -17,6 +17,8 @@ Classical Languages                                             -       6 Langua
 "Ace against odds"                                              -       Sania Mirza
 "Wings for Fire" by                                             -       Abdul Kalam
 "Changing India" by                                             -       Jagmohan Singh
+"Playing it my way"                                             -       Sachin Tendulkar
+"A century is not enough"                                       -       Saurav Ganguly
 "Unbreakable"                                                   -       MC Marikom, Manipur
 Teejan Bai related to                                           -       Chattisgarh Pindwani Dance
 Rukmani Devi related to                                         -       Bharatnatyam Tamil Nadu
@@ -57,16 +59,24 @@ How Many Justice in Preface                                     -       5 Freedo
 Tsanpo river Indian Name                                        -       Brahampurta
 Census Max density 2011 which State                             -       382 in Indis, BA me Danda Pade, Bihar Max, Arunachal Pradesh Min, Delhi Max, Anda Min
 
+Domestic    ------Add Foreign Income----------->        National.    Ex - GDP + Foreign -> GNP
+Growth      ------Decrease Depriciation-------->        Net     .    Ex - GDP - ? -> NDP, Depriciation. 
+                                                                          GNP ----> NDP Remove Foreign and Depriciation
+
+
+
+Hydrogen founder                                                -       Henry Cavandis
+Blood Circulatory System                                        -       William Harway
+Blood Cells                                                     -       Karl Landester
+Ecosystem                                                       -       Tensle
+Ecology                                                         -       Ernst Hackle
+
 
 Mount Kotopaxy where                                            -       Equador
 Etna, Vesuvious                                                 -       Italy
 Krakatova                                                       -       Indonesia
 Stronboli Volcano                                               -       lighthouse of the mediterranean sea
 Active volcano in world                                         -       Barren Island Andaman Nicobar
-
-
-
-
 
 
 Lanoz Grassland                                                 -       Venezuela
@@ -76,3 +86,6 @@ Pampaz Grassland                                                -       Argentin
 Downs Grassland                                                 -       Australia
 Wales Grassland                                                 -       South Africa
 
+
+
+25 min
