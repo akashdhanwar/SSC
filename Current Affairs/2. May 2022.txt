@@ -63,9 +63,6 @@ Himalayan Film Festival where                                                   
 Repo Rate increased to                                                          -       4.4%
 Money App by whom                                                               -       RBI for blind
 Advanced Toad Artillery Gun System(ATAGS) tested where                          -       Pokhran by DRDO
-Sub-Junior Hockey Mens Championship where                                       -       Goa
-Hockey World Cup 2023 where                                                     -       Odissa India
-Biggest Hockey stadium                                                          -       Birsa Munda Stadium Raurkela
 Har Ghar Jal first state                                                        -       Goa
 Rabies free first state                                                         -       Goa, state in 1987
 Highest Sex ratio where in India                                                -       Laddakh
@@ -228,7 +225,6 @@ CNG contains what substance                                                     
 Anti-knock properties of a fuel, number called                                  -       Octane number
 Hasan Sheikh Mahmood President of where                                         -       Somalia
 Horn Of Africa                                                                  -       Somalia Euthopia Jibuti Eridiya
-National Senior Womens Hockey Championship who won                              -       Odissa beat Karnataka at Bhopal
 BSE Chairman                                                                    -       S.S. Mundrda RBI exDeputy Governor
 Indian Jamaica Maitri Udyaan                                                    -       Kingston by Ramnath Kovind, Chandan tree
 Friendship Dam where                                                            -       Afghanistan
@@ -284,7 +280,6 @@ Archery World Cup winner                                                        
 Who killed Rajiv Gandhi and how released                                        -       A.G.Pararivlan from governor, Article 161, SC's Article 142 Special
 World Economic Forum 2022 where                                                 -       Dawos Switzarland, Piyush Goyal from India, Working together restoring trust
 New Development Bank centre where in India                                      -       GIFT -> Gujarat International Financial Technology City
-National sub-junior Hockey championship winner                                  -       Haryana beat Jharkhand at Imphal
 Rajaram Mohan Roy 250th anniversary, event where                                -       Kolkata
 North East Research conclave which IIT                                          -       IIT Guwhati
 ABHA(Ayushman Bharat Health Account) app by whom                                -       National Health Authority
@@ -374,7 +369,7 @@ Para-diabled to climb Mt.Everest                                                
 Everest Base Camp Indian eldest women                                           -       10 year old, 5634 Metre, Ridem Mamania
 
 CORPAT Cordination Patrol with which country                                    -       Bangladesh, 4th, INS Sumedha and INS Kora    
-Sampriti exercise with which country                                            -       Bangladesh
+Sampriti exercise with which country                                            -       Bangladesh, 10th at Bangladesh
 Suryakiran Exercise                                                             -       Nepal
 Mitrshakti Exercise                                                             -       Sri Lanka
 Dustlink Exercise                                                               -       Uzbekistan
@@ -386,8 +381,10 @@ Shakti Exercise                                                                 
 Garud-Shakti                                                                    -       Indonesia
 Konkan Exercise                                                                 -       UK 
 Khanjar Exercise                                                                -       Kyrgyzstan
+Kazind Exercise                                                                 -       Kazakhistan
 Acuvarin Exercise                                                               -       Maldives
 BongoSagar Naval Exercise                                                       -       Bangladesh, INS Cora, INS Sumedha
+VajraPrahar Exercise                                                            -       America
 
 Indigo CEO                                                                      -       Peter Elbers
 Infosys CEO MD                                                                  -       Salil Parekh, Founder Narayan Murthy
