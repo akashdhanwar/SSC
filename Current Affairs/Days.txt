@@ -23,6 +23,8 @@ World Soil Day                  -       5 Dec
 World Environment Day           -       5 June, 1974. UNEP Fornmed
 Ozone Preservation Day          -       16 September
 World Food Day                  -       16 October
+World Ocean Day                 -       8 June
+National Ocean Day              -       5 April
 World Milk Day                  -       1 June
 National Milk Day               -       26 Nov, Father of White Revolution
 
@@ -41,6 +43,7 @@ Aids Day                        -       1 Dec
 Liver Day                       -       19 April
 World Thyroid Day               -       25 May
 Vaccination Day                 -       16 March
+International Yoga day          -       21 June
 
 Word Firefighters Day           -       4 May
 National Firefighters Day       -       14 April
@@ -86,3 +89,7 @@ Hindi Day                       -       14 September
 
 Constitution Day                -       26 Nov
 
+World Bicycle Day               -       3 June
+Olympic Day                     -       23 June
+
+Combat Desertification Day      -       17 June
