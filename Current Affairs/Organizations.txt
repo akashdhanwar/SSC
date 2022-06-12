@@ -28,6 +28,7 @@ UNDP                            -       Human Development Index
 WHO                             -       HQ Geneva Switzarland, Director General - Tedros Adhanom Ghebreyesus
 WTO                             -       1-Jan-1995, 164 Members, HQ Geneva, Nagoji Onkaja Ovela, Latest member Afghanistan
 WEF                             -       1971, Geneva Switzarland
+WLO                             -       Geneva. Gay Rider
 
 European Union                  -       27 Members, HQ Bruscelles Belgium
 NATO                            -       1949, 30 Members, HQ Bruscelles
