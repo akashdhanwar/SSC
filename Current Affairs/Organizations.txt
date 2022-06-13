@@ -1,8 +1,12 @@
 DRDO                            -       1 Jan 1958 - HQ Delhi - Sathish Reddy - Strength's Origin is in Science - Tagline
-ISRO                            -       15 Aug, 1969, S. Somnath
+ISRO                            -       15 Aug, 1969, S. Somnath, HQ Bengaluru
 Niti Ayog                       -       1 Jan 2015 established, Amitabh Kant CEO, Sumn Berry Vice President, PM President
 IFFCO                           -       HQ 
 NABARD                          -       12 July 1982, Shiv Raman Commitee
+RBI                             -       1 April 1935
+NHAI                            -       1988
+TRIFED                          -       1987
+TRAI                            -       1997
 
 ICC                             -       HQ Dubai, Gregg Berkley President
 
@@ -21,7 +25,7 @@ IMF and World Bank              -       Twin sister
 ASI                             -       Formed by Cunninghum, 1861, Director - V.Vidhyavati
 
 World Bank                      -       Twin Sisters, Brattenwood sammelan, HQ Washington
-IMF                             -       Andora latest
+IMF                             -       Andora latest, HQ Washington DC, 190 countries
 
 UNDP                            -       Human Development Index
 
