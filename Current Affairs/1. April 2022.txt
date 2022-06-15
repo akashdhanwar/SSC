@@ -164,6 +164,7 @@ Persevrance river related to                                    -       NASA, To
 Aditya L1 Mission                                               -       by ISRO to Sun 
 Mangalyaan                                                      -       PSLV-C25 in 2013
 Chandrayaan-I                                                   -       PSLV-C11
+Chandrayaan-II                                                  -       GSLV-MK-III, Vikram Lander, Pragyan Rover
 Hope mission                                                    -       Dubai to Mars
 Gaganyaan                                                       -       Indias first man mission 
 PSLV-C52 launched which satellite                               -       14 Feb, Earth Observation Satellite EOS-04
