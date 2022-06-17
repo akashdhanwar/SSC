@@ -66,6 +66,7 @@ SupAce Portal                       -       Supreme Court
 CiSS app by                         -       Children in Stress Solution, National Commission for Protection of Child Rights
 Bal Swaraj Portal                   -       Online digital realtime monitoring for children, for covid and CiSS
 National Puruskar Portal            -       For Transparent nomination process of awards
+National AI Portal                  -       2nd Anniversary
 
 
 
