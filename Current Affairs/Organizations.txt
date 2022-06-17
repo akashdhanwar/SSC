@@ -8,6 +8,12 @@ NHAI                            -       1988
 TRIFED                          -       1987
 TRAI                            -       1997
 
+
+
+European Union                  -       27 Members, HQ Bruscelles Belgium
+NATO                            -       1949, 30 Members, HQ Bruscelles
+
+
 ICC                             -       HQ Dubai, Gregg Berkley President
 
 UNO                             -       24 Oct 1945, New York HQ, South sudan latest, total 193, Antonio Guterris
@@ -35,8 +41,6 @@ WTO                             -       1-Jan-1995, 164 Members, HQ Geneva, Nago
 WEF                             -       1971, Geneva Switzarland
 WLO                             -       Geneva. Gay Rider
 
-European Union                  -       27 Members, HQ Bruscelles Belgium
-NATO                            -       1949, 30 Members, HQ Bruscelles
 
 UNESCO                          -       Paris
 FATF                            -       Paris, T.Rajakumar
