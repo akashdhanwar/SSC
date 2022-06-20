@@ -15,11 +15,14 @@ NATO                            -       1949, 30 Members, HQ Bruscelles
 
 ADB                             -       HQ Manila(Philippenes), World Rice, Ramsay Award
 
+FATF                            -       1989, HQ Paris France. 37 Countries and EU and Gulf Cooperation Counsil. President - T. Rajakumar of Singapore
+UNESCO                          -       Paris
 
 
 ICC                             -       HQ Dubai, Gregg Berkley President
 
 UNO                             -       24 Oct 1945, New York HQ, South sudan latest, total 193, Antonio Guterris
+UNICEF                          -       HQ New York
 
 ASEAN                           -       10 Members, HQ Jakarta
 
@@ -40,13 +43,11 @@ IMF                             -       Andora latest, HQ Washington DC, 190 cou
 UNDP                            -       Human Development Index
 
 WHO                             -       HQ Geneva Switzarland, Director General - Tedros Adhanom Ghebreyesus
-WTO                             -       1-Jan-1995, 164 Members, HQ Geneva, Nagoji Onkaja Ovela, Latest member Afghanistan
+WTO                             -       1-Jan-1995, 164 Members, HQ Geneva, Nagoji Onkaja Ovela, Latest member Afghanistan. Green , Blue and Amber box subsidies. GATT earlier name
 WEF                             -       1971, Geneva Switzarland
 WLO                             -       Geneva. Gay Rider
 
 
-UNESCO                          -       Paris
-FATF                            -       Paris, T.Rajakumar
 International Court of Justice  -       Hagg, Netherland
 UNO                             -       Latest member South Sudan
 
