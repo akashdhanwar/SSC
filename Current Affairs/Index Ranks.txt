@@ -9,4 +9,6 @@ World Investment Report                                                         
 Human Development Index                                                         -       131st bt UNDP
 World Competitiveness Index                                                     -       37/63 from 43/63 by IMD Institute of Managing Director. Denmark 1st
 World Peace Index                                                               -       135/165 by Institute of Peace. 1st Iceland
-
+Corruption Perception Index                                                     -       85/180
+World Competitiveness Index                                                     -       37
+IP Index                                                                        -       43
