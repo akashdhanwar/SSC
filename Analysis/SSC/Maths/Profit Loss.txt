@@ -1,0 +1,2 @@
+Profit of 20% after giving x% discount. CP 920, SP 1472. Find x                     -       25
+Sold at 455 at loss. If 490 then gain equals 4 times of loss. Price for 25% gain?   -       577.5

@@ -1,0 +1,12 @@
+Percentage              -       4
+Ratio and Proportion    -       1
+Profit Loss             -       2
+Algebra                 -       2
+Time Speed Distance     -       1 (Upstream Downstream)
+Trigonometry            -       3 (Simplification) 
+Geometry                -       4 (1 Circle - Angle subtended by arc is equal, 1 Circle Tangent, 2 Triangle Right angled)
+Number System           -       3 (Multiple, Average, Reciprocal mistake)
+Time and Work           -       1
+Simplification          -       1
+Mensuration 2D          -       1
+CI SI                   -       1

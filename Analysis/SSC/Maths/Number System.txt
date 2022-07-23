@@ -1,0 +1,3 @@
+7698x138y is divisible by 72 find root(4x+y)                            -       6
+Find average of 1 to 50 which are multiple of 2 or 5                    -       25.8
+Reciprocal got typed by mistake, value reduced by 175/4% Find Fraction  -       4/3

@@ -1,0 +1,1 @@
+Surface area of cube = 13.5 m^2. find length of diagonal                    -       1.5 * root3

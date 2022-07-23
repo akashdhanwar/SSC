@@ -1,0 +1,3 @@
+(sin + cos)/(sin - cos) = 5, find (4sin^2 + 3)/(2cos^2 + 2)               -       75/34
+((sin + sec)^2 + (cos + cosec)^2)/(1 + sec*cosec)^2 = ?                   -       1
+If sec31 = x. Find sin59^2 + 1/sec31^2 - 1/(sin59^2 * cosec59^2)          -       (2-x^2)/x^2

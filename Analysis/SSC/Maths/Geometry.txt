@@ -1,0 +1,4 @@
+A B C D are points on circle, BD is diameter. BAC=22 degree fond COD                -       136
+ABC right angled at B. D is on BC. AD=13cm AC=37cm. Find DC                         -       30 cm
+ABC right angled at B. D is on AC. AC=9cm CD=3cm. Find AB                           -       3*root6
+Diameter AB produced meet P, PT is tangent at C. BPT=28 degree. find BCP            -       31 degree

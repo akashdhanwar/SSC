@@ -1,0 +1,1 @@
+Sum divided as 4:12:30:45. A-D=5535. Find total sum                 -       12285
