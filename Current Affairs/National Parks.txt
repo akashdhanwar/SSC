@@ -1,0 +1,39 @@
+South Batten Island National Park               -       Andaman Nicobar, SMALLEST 
+Mahatma Gandhi Marine National Park             -       Andaman Nicobar
+Papikonda National Park                         -       Andhra Pradesh 
+Namdafa National Park                           -       Arunachal Pradesh 
+Kaziranga National Park                         -       Assam 
+Moling National Park                            -       
+Dehingpatkai National Park                      -       Assam, LATEST 
+Indrawati National Park                         -       Chattisgarh
+Gurughasi Das Tiger Reserve                     -       Chattisgarh 
+Sultanpur National Park                         -       Haryana 
+Pin Valley National Park                        -       Himachal Pradesh 
+Dachingham National Park                        -       J&K 
+Betla National Park                             -       Jharkhand 
+Nagarhol National Park                          -       Karnataka
+Bandipur Ntional Park                           -       Karnataka
+Silent Valley National Park                     -       Kerela
+Periyar National Park                           -       Kerela 
+Aeravekulam National Park                       -       Kerela 
+Hemis National Park                             -       Ladakh, BIGGEST 
+Kuno National Park                              -       MadhyaPradesh
+Kanha National Park                             -       MadhyaPradesh
+Dudhwa National Park                            -       UttarPradesh
+Jim Corbett                                     -       Uttrakhand, FIRST
+Kabul Naemjao National Park                     -       Floating, Manipur 
+Nokrek National Park                            -       Meghalaya
+Ranthambhor National Park                       -       Rajasthan
+Kevladev National Park                          -       Bharatpur Rajasthan
+Mukurti National Park                           -       TamilNadu
+Mudumalai National Park                         -       TamilNadu
+Gulf of Mannar Marine National Park             -       TamilNadu
+Mrigvani National Park                          -       Telangana 
+Valmiki National Park                           -       Bihar 
+Valley of Flowers National Park                 -       Uttrakhand
+Gir National Park                               -       Gujarat 
+Sanjay Gandhi National Park                     -       Maharashtra
+Mahavir Swami National Park                     -       Goa 
+Kanchenjunga National Park                      -       Sikkim 
+
+
