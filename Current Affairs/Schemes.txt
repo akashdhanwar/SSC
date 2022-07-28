@@ -5,7 +5,7 @@ Mission Amaanat                     -       RPF (Return Lost Items)
 Jagannath Smart Township            -       Andhra Pradesh to provide land at low rates
 Saarthi App                         -       SEBI (Share Market)
 Sehat Pehel                         -       Defence Ministry
-RAMP Scheme                         -       MSME 6000 Crore (Raising and Accelerating MSME Programme)
+RAMP Scheme                         -       MSME 6000 Crore (Raising and Accelerating MSME Programme) with World Bank 
 PM- DeVINE                          -       North East Development 1500 Crore
 Mission Indradhanush                -       25 Dec 2014 Vaccination
 Indradhanush Yojana                 -       Banking Sudhaar
@@ -82,6 +82,8 @@ Money App                           -       RBI for blind
 Daak Karmayogi Portal               -       e-learning portal by Post 
 Baal Raksha Mobile App              -       Sarbanand Sonoval, AYUSH Minister
 Aabha App                           -       National Health Authority, 14 digit Health card 
+e-Amrit App                         -       Niti Aayog
+
 
 
 H1ar Ghar Dastak Campaign rekted to  -       Covid Vaccination, 12-18 Age, for 2 months
