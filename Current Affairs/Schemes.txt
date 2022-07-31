@@ -14,7 +14,7 @@ Operation Aahat                     -       RPF to stop Smuggling
 Parvatmala Yojana                   -       Ropeway Development Programme
 Majhi Vasundhara                    -       Maharashtra to Save Earth with UNEP
 Smile Yojana                        -       To help people left behind
-Saubhagya Yojana                    -       25 Sept 2017(Sahaj Bijli Har Ghar Yojana)
+Saubhagya Yojana                    -       25 Sept 2017(Sahaj Bijli Har Ghar Yojana), Rajasthan Top 
 Operation Parivartan                -       Andhra Pradesh to stop Ganja
 Beti Bachao Beti Padhao             -       22 Jan 2015 Panipat
 Mrada Swasthya card                 -       19 Feb 2015 Suratnagar Soil Health Card
@@ -70,7 +70,8 @@ Program Nirmaan                     -       IIT Kanpur
 Abhyudya Yojana                     -       UP Competitive Exam 
 Anuprati Yojana                     -       Rajashthan Competitive Exam 
 CM Saarthi Yojana                   -       Jharkhand Competitive Exam 
-
+CM Breakfast Scheme                 -       TamilNadu
+Har Ghar Urja Utsav                 -       Maharashtra
 
 
 
