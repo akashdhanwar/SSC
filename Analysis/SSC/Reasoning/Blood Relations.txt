@@ -1,1 +1,5 @@
 Pointing to a girl Deepika said, She is my mother in laws only sons niece. Girls mother relation to Deepika         -       Sister-in-Law 
+
+Guna is the son of Shyamala. Hemant is the father of Manu. Guna is married to Deepa. Shyamala has only one son.
+Roshan is the son of Guna. Pratik is the father of Kalki. Jatin is the son of Manu. Prathik has no daughters.
+Hemant related to Roshan's father                                                                                   -       Father 

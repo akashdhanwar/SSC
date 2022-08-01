@@ -1,0 +1,5 @@
+Lessen(Antonym)     Decrease, Increase, Minimise, Reduce             -      Increase
+Controlled(Antonym)     Restrained, Excited, Guarded, Calm           -      Excited
+Drag(Synonym)           Push, Pull, Tell, Call                       -      Pull 
+Humdrum(Synonym)        Boring, Noising, Exciting, Lively            -      Boring 
+

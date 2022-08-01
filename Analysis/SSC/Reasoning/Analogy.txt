@@ -5,3 +5,9 @@ Libya : Tripoli :: Ireland : ?                                  -       Dublin, 
 CLAP, HLVP, HQVK, MQQK, ?                                       -       MVQF                Logic
 Golf : Course :: Cycling : ?                                    -       Velodrome           Sequence
 GKPV NRIP RVEK CGTZ                                             -       NRIP                Odd one out
+
+ROAD, SMDZ, TKGV, UIJR, ?                                       -       VGMN                Logic
+WRO, HDA, LHE, PLI                                              -       WRO                 Odd one out
+9 : 91 :: 13 : ?                                                -       183                 Series 
+UP : Allahabad High court :: Bihar : ?                          -       Patna High court    Sequence 
+Tissues : Histology :: ?                                        -       Amphibians : Herpetology 

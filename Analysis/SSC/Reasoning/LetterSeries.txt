@@ -1,1 +1,3 @@
 dq_pln_qt_lnd_tpl_dq_p_n                                    -       tdpqntl, dqtpln 
+
+qpl_r_plt_qp_trq_l_r                                        -       tqrlpt, qpltr

@@ -1,3 +1,6 @@
 All lemons are plums, All Plums are Dates, Some Dates are Mangoes
 Some Lemons are Mangoes, Some mangoes are Plums, All Lemons are Dates, Some Mangoes are Dates           -       III, IV 
 
+All tractors are cars, Some scooters are cars, All scooters are cycles
+All scooters are cars, Same cars are cycles, Some tractor are cycles, Some tractors are scooters        -       II 
+

@@ -1,2 +1,7 @@
 8:34 , 5:24 , 6:26 , 7:30                                   -       5:24
 Taunt , Snub , Regard , Abuse                               -       Regard
+
+36-353, 64-729, 49-512, 25-216                              -       36-353 
+12,60,84                                                    -       *5, *7 Logic 
+59,118,295                                                  -       *2, *5 Logic 
+Plotter, Keyboard, Webcam, Microphone                       -       Plotter 

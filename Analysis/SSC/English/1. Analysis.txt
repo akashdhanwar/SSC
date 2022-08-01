@@ -1,0 +1,11 @@
+Error finding           -       2
+One word Substitute     -       2
+Jumble statements       -       2
+Improvement             -       2
+Antonym Synonym         -       4
+Idiom                   -       1
+Active Passive          -       1
+Incorrect spelt         -       2
+Direct Indirect         -       1
+Fill in the blank       -       2
+Paragraph               -       5
