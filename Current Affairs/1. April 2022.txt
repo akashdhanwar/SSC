@@ -157,7 +157,6 @@ Chandrayaan-II                                                  -       GSLV-MK-
 Hope mission                                                    -       Dubai to Mars
 Gaganyaan                                                       -       Indias first man mission 
 PSLV-C52 launched which satellite                               -       14 Feb, Earth Observation Satellite EOS-04
-PSLV-C53 DS-EO of which country                                 -       Singapore's DS-EO, NeuSAR, Scoob
 CAPSTONE mission by                                             -       NASA for Moon, create spacestation to live on moon
 GSAT-24                                                         -       By Aerion-5 from Koru, French Guana By TATA 
 INS Sindhudhwaj decommissioned                                  -       
