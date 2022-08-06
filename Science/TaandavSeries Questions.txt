@@ -25,6 +25,12 @@ Study of old coins branch                                           -       Numi
 Study of Silkworm                                                   -       Sericulture, Seri-> Saree-> Resham ki
 Study of low temperature Engines                                    -       Cryogenics, cry when temperature high               
 Study of Inscriptios                                                -       Epigraphy
+Study of Cancer                                                     -       Onchology 
+Study of Bones                                                      -       Osteology
+Study of Fungus                                                     -       Mycology 
+Study of Birds                                                      -       Ornithology  
+Study of Earthworm                                                  -       Vermiculture 
+Study of Grapes                                                     -       Viticulture
 
 
 #9
@@ -38,6 +44,7 @@ Polio Vaccine by                                                    -       Jona
 Penicillin Vaccine by                                               -       Alexander Fleming 
 Helix model of DNA by                                               -       Watson & Crick 
 Rabies Vaccine by                                                   -       Louis Pasteur
+Smallpox Vaccine by                                                 -       Edward Jenner 
 Bacteria founded by                                                 -       Leuven Hawk
 Cell founded by                                                     -       Robert Hook
 Cell Theory founded by                                              -       Theodor Schwann
@@ -57,6 +64,7 @@ Crescograph is used for study of                                    -       Grow
 Sound do not travel in                                              -       Vaccum 
 Pressure and Volume relation                                        -       Inversely, PV = nRT 
 Father of Taxonomy                                                  -       Carolus Linnaeus
+Father of Genetics                                                  -       Gregor John Mendell 
 Caustic Soda formula                                                -       NaOH 
 Sodium Bicarbonate                                                  -       NaHCO3 Bai bnaegi Khana 
 Sodium Carbonate                                                    -       Na2CO3,10H2O Dhone ka Soda 
@@ -85,9 +93,9 @@ Algae, Fungus, Lycane are present in which plant                    -       Thal
 Generator convert which energy                                      -       Mechanical to Electrical, Motor reverse 
 Which soil for tea production                                       -       Laterite(Let ke Chaye), Black soil(Raigoor) for Cotton from Basalt rocks, Monozyte(Kerela, Thorium), Chernozum(Earths black soil)
 Blood clotting by which Vitamin                                     -       Vitamin K formed in Liver, Heparin stops clotting in body  
-Retinol is which Vitamin                                            -       A 
+Vitamin A is called                                                 -       Retinol
 Cobalt in which Vitamin                                             -       B12 
-Calciferol is which Vitamin                                         -       D 
+Vitamin D is called                                                 -       Calciferol
 How much chamber in fish heart                                      -       2 
 Dwarfism is related to which gland of body                          -       Pituitary Glands Growth Hormone, Smallest gland
 Smallest Gland                                                      -       Pituitary Gland 
@@ -96,12 +104,44 @@ Largest Gland                                                       -       Live
 Biological clock is                                                 -       Pineal Gland(Pteutary)
 Master gland                                                        -       Pituitary Gland 
 Master of Master gland                                              -       Hypothalamus 
+Chemical Laboratory                                                 -       Liver 
 Speed of Planets law by                                             -       Keplers Law 
 
 
+#12
+Marsupials example                                                  -       Kangaroo 
+Flying Fox                                                          -       Bat 
+National Acquatic Animal of India                                   -       Gangetic Dolphin
+Heritage animal of India                                            -       Elephant 
+Shoulder bone is called                                             -       Scapula 
+Vermicompost is of                                                  -       Earthworm 
+Father of Green Revolution                                          -       William God named by , Swaminathan in India, Normal Borlog in World
+Urine is yellow by                                                  -       Uracrom 
+Bad smell of Urine in Toilet due to                                 -       Ammonia
+Which Vitamin is synthesized in human body                          -       Vitamin A(Liver), Vitamin B and C(Water soluble),Vitamin D(Sun)
 
 
-
+#13
+Modern Periodic Table base of sorting                               -       Atomic Number 
+Which cell not found in Plant cell                                  -       Cell Wall(only in Plant made of cellulose), Cell Membrane(Plant and Animal), Centrosome(Only in Animals), Chlorophyll(Only in Plants)
+Bone to Bone connected by                                           -       Ligament
+Bone to Muscle connected by                                         -       Tendons
+Rod and Cones cell found in                                         -       Eyes, Rod for night Cone for colors 
+Buta Monosperma is name of                                          -       Palash 
+Manjifera Indica is name of                                         -       Mango
+Pavo Christafon is name of                                          -       Peacock
+Polygraph is                                                        -       Lie Detector, Sodium Pentathol liquid 
+Rocket works on principle of                                        -       Action Reaction 
+Coreolis force at Equator is                                        -       Zero, Due to rotation of Earth  
+Swine Flu virus name                                                -       H1N1
+Bird Flu virus name                                                 -       H5N1
+Cytoplasm and Nucleus are called                                    -       Protoplasm, Physical Unit of cell by 
+Which gas in earthquake                                             -       Radon
+Aurora Borealis and Aurora Australis are                            -       North and South Pole 
+SONAR                                                               -       Sound Navigation and Ranging 
+RADAR                                                               -       Radio Detection and Ranging 
+NISAR                                                               -       NASA ISRO Synthtic Aperture Radar 
+MRI                                                                 -       Magnetic Resonance Imaging 
 
 
 
