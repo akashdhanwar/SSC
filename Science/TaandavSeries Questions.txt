@@ -31,6 +31,7 @@ Study of Fungus                                                     -       Myco
 Study of Birds                                                      -       Ornithology  
 Study of Earthworm                                                  -       Vermiculture 
 Study of Grapes                                                     -       Viticulture
+Study of Vegetable                                                  -       Olericulture 
 
 
 #9
