@@ -51,8 +51,6 @@ PM Svanidhi Yojana                  -       PM Street Vendor's AtmaNirbhar Nidhi
 Operation Uplabdh                   -       RPF, Ticket blackmarketing
 Shrestha Yojana                     -       Scheduled Caste
 Mani App                            -       RBI for blind people
-Portal for Credit linked 
-government schemes                  -       Jan Samarth Portal
 Nanhi Pari Programme                -       North-West Delhi
 Udaan Scheme                        -       Rajasthan, Women Empowerment
 Sujal Scheme                        -       Panchkula, Haryana
@@ -79,7 +77,6 @@ Lokpal App                          -       MNREGA(2005 started 2006). 2 Oct 200
 Kisan App                           -       IIT Roorkie for Weather
 Faster Portal                       -       Supreme Court   
 SupAce Portal                       -       Supreme Court
-CiSS app by                         -       Children in Stress Solution, National Commission for Protection of Child Rights
 Bal Swaraj Portal                   -       Online digital realtime monitoring for children, for covid and CiSS
 National Puruskar Portal            -       For Transparent nomination process of awards
 National AI Portal                  -       2nd Anniversary

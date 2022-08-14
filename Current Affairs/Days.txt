@@ -13,7 +13,6 @@ Earth Day                       -       22 April 1970, Theme - Invest in our Pla
 World Soil Day                  -       5 Dec
 Ozone Preservation Day          -       16 September
 World Food Day                  -       16 October
-World Ocean Day                 -       8 June 2009. Theme - Revitalisation collective action for the ocean
 National Ocean Day              -       5 April
 National Milk Day               -       26 Nov, Father of White Revolution
 Global Wind Day                 -       15 June 2007
@@ -37,7 +36,6 @@ World Thyroid Day               -       25 May
 Vaccination Day                 -       16 March
 International Yoga day          -       21 June 2015, Mysore Karnataka. Yoga for Humanity
 Music Day                       -       21 June
-World Brain Tumor Day           -       8 June, Together we are Stronger
 Wold Health Day                 -       7 April, WHO founded 1948
 World Homeopathy Day            -       10 April 1775, Samuel Hahnemann founder was born Germany. Theme - People's Choice For Wellness
 World No Tobacco Day            -       31 May, Theme - Tobacco is killing us and our planet. India 3rd Producer, 2nd Consumer
@@ -124,6 +122,8 @@ World Bicycle Day               -       3 June
 Illegal Fishing                 -       5 June 
 World Environment Day           -       5 June, 1974. UNEP Fornmed, Only one Earth
 World Food Safety Day           -       7 June, Safer Food Better Health, by FSSAI
+World Ocean Day                 -       8 June 2009. Theme - Revitalisation collective action for the ocean
+World Brain Tumor Day           -       8 June, Together we are Stronger
 
 World Chess day                 -       20 July
 World Brain Day                 -       22 July
