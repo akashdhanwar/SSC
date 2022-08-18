@@ -12,5 +12,6 @@ World Peace Index                                                               
 Corruption Perception Index                                                     -       85/180
 World Competitiveness Index                                                     -       37
 IP Index                                                                        -       43
+Democracy Index                                                                 -       46
 Henley Passport Index                                                           -       87th
 Global Gender Gap Index                                                         -       
