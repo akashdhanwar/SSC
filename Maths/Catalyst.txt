@@ -1,0 +1,16 @@
+A) SIMPLIFICATION-
+    Multiplication -    Both numbers greater than 100           -   106*108 -> 100   100
+                                                                                | \ / |
+                                                                                | / \ |
+                                                                                6     8
+                                                                                106+8 OR 108+6 = 114. 6*8 = 48
+                                                                                11448 Answer
+                                                                    103*109 -> 11227
+                                                                    102*103 -> 10506
+                                                                    112*115 -> 12880
+                        Both numbers less than 100              -   
+                        One number more than 100 and one less   -   
+
+
+
+RECORD LECTURES
