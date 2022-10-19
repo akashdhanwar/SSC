@@ -94,18 +94,33 @@ NON VERBAL, VERBAL REASONING
         
 
     E) VEIN DIAGRAM-
-        Question -  Lion, Tiger, Carnivorous
+        Case 1   -  Lion, Tiger, Carnivorous
                     Country, State, District
                     Cricket Players, Football Players, Hockey Players
                     Triangle, Rectangle, Circle
                     Nitrogen, Hydrogen, Water 
-        Question -  Diagram given. How many passed in Maths and Science. How many are Literate Scientists
+        Case 2   -  Diagram given. How many passed in Maths and Science. How many are Literate Scientists
 
 
-    F) 
+    F) BLOOD RELATION-
+        Case 1   - Simple Questions 
+        Case 2   - Coded Questions like A3P is A is the sister of P 
+        Case 3   - Find which one is true Questions
+        B is A's Brother. C is only daughter of the mother of B. C has only one son. Find A relation to D                   -   Maternal Uncle
+        A women said, Her wife is my mothers only daughter. Find women relation to man                                      -   Wife
+        Deepak said to Nitin, The child who is playing football is the young brother of the daughter of wife of my father   -   Brother
+
+    G) DIRECTION TEST 
+        Case 1   -  Sobha was facing East. She walked 20m. Turning left she moved 15m. Then turning right 25m. 
+                    Finally turned right 15m. How far is she from starting point                                            -   45m
+        Case 2   -  Anuj starts walking facing opposite direction to sun. After some time he turns left ant then right.
+                    Finally towards left. Find the direction                                                                -   North/South as per Morning/Sunset
 
 
-LECTURE-9
+
+
+
+LECTURE-13
 
 
 RECORD LECTURES
