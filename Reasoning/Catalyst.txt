@@ -117,10 +117,10 @@ NON VERBAL, VERBAL REASONING
                     Finally towards left. Find the direction                                                                -   North/South as per Morning/Sunset
 
 
-    H) SYLLOGISM-
+    H) SYLLOGISM- (Lecture 13-15)
        Find Vein Diagram. Possibility not to be considered
         Case 1   -  All-All.
-                    All A are B. All B are C. This Shows Some B are A. Some C are B. Some C are A
+                    All A are B. All B are C. This Shows Some B are A. Some C are B. Some C are A. All A are C
         Case 2   -  All-Some 
                     All A are B. Some B are C. This Shows Some B are A. Some C are B. Possibility - Either Some C are A or None C are A
                     Some A are B. All B are C. This Shows Some B are A. Some C are B. Some A are C 
@@ -144,11 +144,110 @@ NON VERBAL, VERBAL REASONING
                     Conclusion - Some Trains are Benches. No train is Bench         -       Either I or II follow 
 
 
+    I) ANALOGY(Relation) AND CLASSIFICATION(Odd one out) (Lecture 16-17,19)
+        ANALOGY
+        Case 1   -  Cause And Effect 
+                    Question - Goitre : Iodine :: Anaemeia : ?                      -       Iron 
+        Case 2   -  Set and Subset 
+                    Question - As Page is related to Book. Leaf must be related to  -       Tree
+        Case 3   -  Unit and Quantity 
+                    Question - Current : Ampere :: Potential Difference : ?         -       Volt 
+        Case 4   -  Instrument and Measurement 
+                    Question - Seismograph : Earthquake :: Thermometer : ?          -       Temperature 
+        Case 5   -  Worker Tool 
+                    Question - Teacher related to Pen. Painter related to           -       Brush 
+        Case 6   -  Relationship 
+                    Question - Bull : Cow :: Horse : ?                              -       Mare 
+        Case 7   -  Synonym 
+                    Question - Dare : Scarcity :: Substitute : ?                    -       Replace 
+        Case 8   -  Antonym 
+                    Question - Hate : Love :: Create : ?                            -       Destroy 
+        Case 9   -  Study of Anything 
+                    Question - Numismatic : Coin :: Paleontology : ?                -       Fossil 
+        Case 10  -  Product Raw Material 
+                    Question - Shoe : Leather :: Rubber : ?                         -       Latex 
+        Case 11  -  Chemical Compound 
+                    Salt : Sodium :: Water : ?                                      -       Hydrogen 
+        Case 12  -  Nation Currency/Capital/State 
+                    Question - Rupee : India :: Dollar : ?                          -       America 
+        Case 13  -  Numbers 
+                    Question - 8 = 511, 12 = ?                                      -       1727
+        CLASSIFICATION 
+        Case 1   -  Word Classification
+                    Question -  Cat Dog Cow Lion                                    -       Lion 
+                    Question -  Jaipur Bhopal Mumbai Goa                            -       Goa 
+        Case 2   -  Number Classification
+                    Question -  7 23 29 49                                          -       49 
+                    Question -  215 342 511 1001                                    -       Cube-1, 1001
+        Case 3   -  Alphabet Classification 
+                    Question -  A I O D                                             -       D 
+                    Question -  DW EV LO MP                                         -       MP 
+        Questions-  13 : 19 :: ? : 31                                               -       23 or 25 
+                    CEG : EGC :: LNP : ?                                            -       NPL 
+                    48 : 122 :: 168 : ?                                             -       290, Square+1
+                    PRLN : XZTV :: JLFH : ?                                         -       RTNP 
+                    14 : 9 :: 26 : ?                                                -       15, Double-4
+--------------------------------------------------------------------------------------------------------------------------- LECTURE 19 --------------------                   
+                    3 : 10 :: 8 : ?                                                 -       17, 4*4+1
+                    HUMAN : LIP :: BIRD : ?                                         -       BEAK
+                    FLOW : RIVER :: STAGNANT : ?                                    -       POOL 
+                    PAW : CAT :: HOOF : ?                                           -       HORSE 
+                    Ornithology : Bird :: Archealogist : ?                          -       Archealogy 
+                    Peacock : India :: Bear : ?                                     -       Russia 
+                    Apple, Grape, Orange                                            -       Fruits 
+                    Pathology, Cardiology, Radiology, Opthamology                   -       Hematology
+                    BEGK : ADFJ :: PSVY : ?                                         -       ORUX
+                    AZBY : CXDW :: EVFU : ?                                         -       GTHS 
+                    KeaC : CaeK :: XgmF : ?                                         -       FmgX
+                    PASS : QBTT :: FAIL : ?                                         -       GBJM
+                    BLOCKED : YOLXPVW :: ? : OZFMXS                                 -       LAUNCH 
+                    ABCD : WXYZ :: EFGH : ?                                         -       STUV
+                    Odd One Out-
+                    Chicken Snake Swan Crocodile Frog                               -       Chicken Non Aquatic 
+                    Cap Turban Helmet Veil Hat                                      -       Veil(Scalf)
+                    Kiwi Eagle Emu Ostrich                                          -       Eagle 
+                    Curd Butter Oil Cheese Cream                                    -       Oil 
+                    Spectacles Goggles Binoculars Microphone Telescope              -       Microphone 
+                    Shehnai Bagpipe Flute Sitar Harmonica                           -       Sitar No Air Blown 
+                    Reader Writer Publisher Reporter Printer                        -       Reader 
+                    Gallon Ton Quintal Kilogram                                     -       Gallon 
+                    Cry Sob Weep Laugh                                              -       Laugh 
+                    Correction Improvement Betterment ELevation                     -       Elevation 
+                    Medium Average Mediocre Terrible                                -       Terrible 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    J) CODING DECODING (Lecture 18-)
+        A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+        Z Y X W V U T S R Q P O N
+        Case 1   -  Position of Letter are changed 
+                    Question - IMPORTANT is coded as MIOPTRNAT. Find for CAPITAL                        -       ACIPATL
+        Case 2   -  When Letter of words are coded by other letters/numbers/characters
+                    Question - INDEX as 14563, COP as 720, POLICE as 029176. CUP as 780. Find CUDDLE    -       785596
+        Case 3   -  Letters are replaced with opposite letters of series 
+                    Question - APPLE is ZKKOV. Find MONEY                                               -       NLMVB
+        Case 4   -  Every Letter in word must be replaced with any logical sequence 
+                    Question - ORANGE is PSBOHF. Find MANGO                                             -       NBOHP
+                    Question - PUNISHMENT is OVMJRILFMU. Find MAXIMUM                                   -       LBWJLVL
+        Questions-  NUMBER as UNBMER. Find GHOST                                                        -       HGOST
+                    APPROACH as CHOAPRAP. Find RESTRICT                                                 -       CTRISTRE
+                    EXCURTION as CXEURTNOI. Find SCIENTIST                                              -       ICEENTTSI
+                    DOWN as FQYP. Find WITH                                                             -       YKVJ
+                    PULSE as DRKTO. NEW as VDM. Find PROBES                                             -       RDANQO
+                    CHAIR as FKDLU. Find RAID                                                           -       UDLG 
+                    HORSE as BUNGY. CAT as HOW. Find CHEST                                              -       HBYGW
+                    EARTHQUAKE as MOGPENJOSM. Find EQUATE                                               -       MNJOPM 
+                    ROSE as 6821. CHAIR as 73456. PREACH as 961473. Find SEARCH                         -       214673
+                    ENGLAND as 1234526. FRANCE as 785291. Find GREECE                                   -       381191
+                    RBM STD BRO PUS means The Cat Is Beautiful 
+                        TNH PUS DIM STD means The Dog Is Brown
+                        PUS DIM BRO PUS CUS means The Dog Has The Cat. Find word for HAS                -       CUS - HAS, PUS - The, STD - Is, BRO - Cat, RBM - Beautiful, DIM - Dog
+                    PIC VIC NIC means Winter Is Cold.
+                        TO NIC RE means Summer Is Hot
+                        RE THO PA means Nights Are Hot. Find code for SUMMER                            -       TO
 
 
 
-
-LECTURE-15
+LECTURE-20
 
 
 RECORD LECTURES
