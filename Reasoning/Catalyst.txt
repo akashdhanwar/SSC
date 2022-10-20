@@ -117,10 +117,38 @@ NON VERBAL, VERBAL REASONING
                     Finally towards left. Find the direction                                                                -   North/South as per Morning/Sunset
 
 
+    H) SYLLOGISM-
+       Find Vein Diagram. Possibility not to be considered
+        Case 1   -  All-All.
+                    All A are B. All B are C. This Shows Some B are A. Some C are B. Some C are A
+        Case 2   -  All-Some 
+                    All A are B. Some B are C. This Shows Some B are A. Some C are B. Possibility - Either Some C are A or None C are A
+                    Some A are B. All B are C. This Shows Some B are A. Some C are B. Some A are C 
+        Case 3   -  Some-Some
+                    Some A are B. Some B are C. This Shows Some B are A. Some C are B. Possibility - Either Some C are A or no C is A
+        Case 4   -  All-Not 
+                    All A are B. No B is C. This Shows Some B are A. No C is B. No C is A 
+        Case 5   -  Some-Not 
+                    Some A are B. No B is C. This Shows Some B are A. No C is B. Possibility - Either Some A are C or No A is C 
+        Question -  Statements - All Fish are Bird. Some Hens are Fish.
+                    Conclusion - Some Hens are Birds. No Bird is Hen                -       Only I follow 
+        Question -  Statements - Some Shoes are Coats. Some Coats are Buttons
+                    Conclusion - No Button is Shoe. Some Shoes are Buttons          -       Either I or II follow 
+        Question -  Statements - All Bats are Boys. All Boys are Gloves
+                    Conclusion - Some Gloves are Bats. All Bats are Gloves          -       Both follow 
+        Question -  Statements - Some Doctor are Nurses. All nurses are Patients.
+                    Conclusion - All Doctors are Patients. Some Patients are Doctor -       Only II follow
+        Question -  Statements - All Shoes are Pens. Some Pens are Razors. Some Razors are Desks.
+                    Conclusion - Some Desks are Shoes. Some Razors are Shoes        -       None follows 
+        Question -  Statements - Some Benches are Windows. Some Windows are Walls. Some Walls are Trains.
+                    Conclusion - Some Trains are Benches. No train is Bench         -       Either I or II follow 
 
 
 
-LECTURE-13
+
+
+
+LECTURE-15
 
 
 RECORD LECTURES
