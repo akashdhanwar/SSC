@@ -38,9 +38,7 @@ Case 1  -   Countable(People - Doctor Teacher Nurse, Objects - Pen Chair Book) N
                             She gave me some useful informations. Find errors                   -       informations
                             He gave me some advise. Find errors                                 -       advise(It is a verb, noun to be used)
                             She adviced me in the issue. Find errors                            -       adviced(It is a noun, verb to be used)
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------ LECTURE 2
+            
 
 
