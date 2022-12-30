@@ -1,5 +1,7 @@
+----------------- NUMBER SYSTEM TYPES ------------------------------------------------------------------------------------------
+
 1)  Decimal System
-    Permutation(Arrangements) -
+    Permutation(Arrangements) 
         - Find number of arrangements in a,a,c,d,e,f                    -       6!/2!
         - How many 3 digit number are possible from 4,5,8,9             -       Repetition allowed      -   4*4*4
                                                                                 Not allowed             -   4*3*2
@@ -30,3 +32,15 @@
     Binary to Hexa      -   (0101110101111101)2                         -       (5D7D)16
     Hexa to Binary      -   (2E39)16                                    -       (0010111000111001)2
 
+
+----------------- CLASSIFICATION OF NUMBERS ------------------------------------------------------------------------------------------
+
+1)  Complex Numbers
+    |  _Real Numbers            _   Decimal Numbers -   Recurring/Terminating/Rational Decimal
+    | |         |______________|                        Non-Recurring/Non-Terminating/Irrational Decimal
+    |_|                        |_   Integers
+      |_Imagenary Numbers(i)
+
+    - Find the product of 2+3i and its conjugate                        -       13
+
+Lec-3   16:00
